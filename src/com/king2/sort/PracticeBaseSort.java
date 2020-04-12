@@ -1,7 +1,7 @@
 package com.king2.sort;
 
 
-//练习对应的基数排序算法
+//练习对应的基数排序算法123
 public class PracticeBaseSort {
 
     public static void main(String[] args) {
